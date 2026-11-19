@@ -11,7 +11,7 @@ A simple and stylish QR Code Generator built using HTML, CSS, and JavaScript. Ge
 
 ## 📸 Project Screenshot
 
-![QR Code Generator](./QR%20code%20project/Picture.png)
+![QR Code Generator](./QR%20code%20project/Picture.png.png)
 
 ## ✨ Features
 
