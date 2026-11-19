@@ -9,7 +9,7 @@ A simple and stylish QR Code Generator built using HTML, CSS, and JavaScript. Ge
 
 ## 📸 Project Screenshot
 
-(![QR Code Generator Preview](./Picture.png))
+![QR Code Generator Preview](./Picture.png)
 
 ## ✨ Features
 
